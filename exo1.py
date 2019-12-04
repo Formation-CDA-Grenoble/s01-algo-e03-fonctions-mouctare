@@ -1,7 +1,8 @@
 def double(number):
-    # Début de ton code
-    pass
-    # Fin de ton code
+   print  (number*2)
+   return number*2
+    
+
 
 
 
